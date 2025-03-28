@@ -1,2 +1,2 @@
-export const changeDayFlag = false;
-export const changeDayDatum = "11.02.2025";
+export const changeDayFlag = false; 
+export const changeDayDatum = `2025-03-28`;
